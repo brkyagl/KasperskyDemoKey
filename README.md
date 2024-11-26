@@ -1,5 +1,7 @@
-# KasperskyDemoKey
+# Kaspersky Key
 
 Kaspersky Abonelik - Deneme Anahtarı 
 
-```31eefb02-96b4-487a-8d7f-821f94e6a864```
+```3M3K9-5R92S-ZDH5Y-NA944```
+
+![](https://i.ibb.co/gTT3GKT/Screenshot-20241126-104418-Kaspersky.jpg)
